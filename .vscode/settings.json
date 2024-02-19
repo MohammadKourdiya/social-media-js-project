@@ -1,0 +1,5 @@
+{
+    "editor.formatOnType": true,
+    "editor.bracketPairColorization.enabled": false,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true
+}
