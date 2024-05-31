@@ -26,15 +26,15 @@ The Social Media JS Project is a web application that simulates a social media p
 ## Screenshots
 ### Home Page
 ![Home Page](![Screenshot 2024-05-31 175813](https://github.com/MohammadKourdiya/social-media-js-project/assets/29815461/ee2b4c5e-811d-4b56-9643-9c65cca6a84e)
-)
+
 
 ### User Profile
-![User Profile]( )![profile](https://github.com/MohammadKourdiya/social-media-js-project/assets/29815461/887d82eb-5927-4dab-9437-ede3c9f0ca93)
+![User Profile](https://github.com/MohammadKourdiya/social-media-js-project/assets/29815461/887d82eb-5927-4dab-9437-ede3c9f0ca93)
 
 
 ### Post Details
-![Post Details](![Screenshot 2024-05-31 180055](https://github.com/MohammadKourdiya/social-media-js-project/assets/29815461/375fd935-202c-486f-95c4-12c486c41ebe)
-)
+![Post Details](https://github.com/MohammadKourdiya/social-media-js-project/assets/29815461/375fd935-202c-486f-95c4-12c486c41ebe)
+
 
 ### Comments Section
 ![Comments Section]()![Screenshot 2024-05-31 180206](https://github.com/MohammadKourdiya/social-media-js-project/assets/29815461/403a9ff5-7a69-4b9d-a563-20b2c60546bc)
