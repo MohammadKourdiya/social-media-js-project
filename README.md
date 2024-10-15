@@ -8,7 +8,6 @@ The Social Media JS Project is a web application that simulates a social media p
 - **User Profiles**: Create and edit personal profiles.
 - **Posts**: Create, edit, and delete posts.
 - **Comments**: Comment on posts and interact with other users.
-- **Likes**: Like posts and see the number of likes.
 - **Responsive Design**: Ensures a good user experience on both desktop and mobile devices.
 
 ## Technologies Used
@@ -18,8 +17,6 @@ The Social Media JS Project is a web application that simulates a social media p
   - JavaScript (ES6+)
 - **Backend**:
   - Node.js
-  - Express.js
-  - MongoDB (for storing user data, posts, and comments)
 - **APIs**:
   - RESTful APIs for data interaction
 
