@@ -44,7 +44,7 @@ The Social Media JS Project is a web application that simulates a social media p
 
 ### Prerequisites
 - Node.js and npm installed on your machine
-- MongoDB installed and running locally or a MongoDB Atlas account
+
 
 ### Steps
 1. Clone the repository:
